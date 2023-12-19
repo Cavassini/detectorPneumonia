@@ -1,0 +1,8 @@
+Instalação das bibliotecas necessárias:
+
+pip install opencv-python
+pip install numpy
+pip install keras
+pip install pillow
+pip install tk
+pip install cvzone
